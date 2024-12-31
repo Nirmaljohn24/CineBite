@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'flowbite';
+
+main{
+    min-height: 100vh;
+    
+    
+}
